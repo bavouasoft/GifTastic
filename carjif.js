@@ -1,4 +1,4 @@
-var topics = [
+let topics = [
   "rolls-Royce",
   "lamborghini",
   "ferrari",
@@ -55,7 +55,7 @@ $(document).on("click", ".topic", function(event) {
 
 handleDataName = function(dataname) {
   let queryURL =
-    "http://api.giphy.com/v1/gifs/search?q=" +
+    "https://api.giphy.com/v1/gifs/search?q=" +
     dataname +
     "&api_key=dc6zaTOxFJmzC&limit=10";
   console.log(queryURL);
