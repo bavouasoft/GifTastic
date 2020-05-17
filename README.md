@@ -8,3 +8,10 @@ Enter a term into the search box. A buttons then will appear above with the term
 Feel free to search any items that is of interest to you.
 
 ## Technologies used:
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- giphy API
