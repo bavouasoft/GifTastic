@@ -14,4 +14,4 @@ Feel free to search any items that is of interest to you.
 - Bootstrap
 - JavaScript
 - jQuery
-- giphy
+- gif
