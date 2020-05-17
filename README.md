@@ -13,4 +13,4 @@ Feel free to search any items that is of interest to you.
 - CSS3
 - Bootstrap
 - JavaScript
-- jQuery
+- jQ
